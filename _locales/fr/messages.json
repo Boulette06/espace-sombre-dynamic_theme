@@ -1,0 +1,14 @@
+{
+	"extensionName": {
+		"message": "espace sombre - The best dynamic theme",
+		"description": "Nom de l'extension."
+	},
+	"extensionDescription": {
+		"message": "l'espace dans un thème sombre. Arrière-plan sombre transparent avec des particules se déplaçant.",
+		"description": "Descriptif de l'extension."
+	},
+	"extensionAuthor": {
+		"message": "sync",
+		"description": "l'espace dans un thème"
+	}
+}
